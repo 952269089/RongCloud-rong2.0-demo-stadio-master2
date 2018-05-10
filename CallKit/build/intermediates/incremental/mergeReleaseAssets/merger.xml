@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\112\RongCloud-rong2.0-demo-stadio-master\CallKit\src\main\assets"/><source path="D:\112\RongCloud-rong2.0-demo-stadio-master\CallKit\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\112\RongCloud-rong2.0-demo-stadio-master\CallKit\src\release\assets"/></dataSet></merger>

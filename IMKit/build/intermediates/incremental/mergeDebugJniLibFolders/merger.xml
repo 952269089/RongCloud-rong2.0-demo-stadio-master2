@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\112\RongCloud-rong2.0-demo-stadio-master\IMKit\src\main\libs"><file name="Rong_IMKit.jar" path="D:\112\RongCloud-rong2.0-demo-stadio-master\IMKit\src\main\libs\Rong_IMKit.jar"/><file name="MiPush_SDK_Client_2_2_21.jar" path="D:\112\RongCloud-rong2.0-demo-stadio-master\IMKit\src\main\libs\MiPush_SDK_Client_2_2_21.jar"/></source></dataSet><dataSet config="debug"><source path="D:\112\RongCloud-rong2.0-demo-stadio-master\IMKit\src\debug\jniLibs"/></dataSet></merger>
